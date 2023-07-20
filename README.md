@@ -1,3 +1,8 @@
+## About the project
+This is a side project to learn Next.js.
+It is based on [this tutorial](https://www.youtube.com/watch?v=eKRzywQCDaM&t=7s) from [Kodaps](https://www.youtube.com/@kodaps_fr) on Youtube. Thanks to follow him for more content. 
+
+## About Next.js
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
