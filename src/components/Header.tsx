@@ -1,3 +1,3 @@
 export const Header:React.FC = () => {
-    return <div>Header</div>
+    return <header className="">Header</header>
 }
