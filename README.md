@@ -1,3 +1,7 @@
+## Based on
+This learning project is based on [this tutorial](https://www.youtube.com/watch?v=-SrqXDcjxKs&list=PLyBSxPdE1x-OG5g2XI5g1SBX4CegSyGDx&index=3) from [Kodaps](https://www.youtube.com/@kodaps_fr). Thanks to follow him for more content.
+
+## About Next.js
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
